@@ -1,6 +1,6 @@
-# FortyPlus - Jekyll Theme [![Netlify Status](https://api.netlify.com/api/v1/badges/22c6850c-ca04-4d8a-8555-83c3638f0145/deploy-status)](https://app.netlify.com/sites/prateekpunetha-site/deploys)
+# FortyPlus - Jekyll Theme
 
-A modified version of the Jekyll theme by [HTML5 UP](https://html5up.net/).  
+A modified version of the Jekyll theme by [HTML5 UP](https://html5up.net/).
 This is my personal fork which adds many important features and makes the theme highly modular and user customizable.
 
 <p align="center">
@@ -9,24 +9,25 @@ This is my personal fork which adds many important features and makes the theme 
 
 # Added Features
 
-* very easy setup - fork the template and start posting
-* beautiful [material ocean](https://github.com/material-ocean/Material-Ocean) color pallete 
-* highly modularize the theme - most of the widgets and features are user togglable
-* prope URl's for posts and projects
-* remove the annoying date on post URL's
-* better project structure - group all pages under the pages folder
-* seperation between posts and pages
-* tiles for posts and pages  - you can toggle them in `_config.yml`
-* go to top button
-* separate page for each post and pages
-* minimal syntax highlighting via [prism](https://prismjs.com/index.html)
-* site wide search via [lunr](https://lunrjs.com)
-* better font awesome integration via fontawesome kit
-* fix font awesome issues on mobile devices
-* social media shareing icons for posts and pages
-* separate contact page - add your details in `_config.yml`
+- very easy setup - fork the template and start posting
+- beautiful [material ocean](https://github.com/material-ocean/Material-Ocean) color pallete
+- highly modularize the theme - most of the widgets and features are user togglable
+- prope URl's for posts and projects
+- remove the annoying date on post URL's
+- better project structure - group all pages under the pages folder
+- seperation between posts and pages
+- tiles for posts and pages - you can toggle them in `_config.yml`
+- go to top button
+- separate page for each post and pages
+- minimal syntax highlighting via [prism](https://prismjs.com/index.html)
+- site wide search via [lunr](https://lunrjs.com)
+- better font awesome integration via fontawesome kit
+- fix font awesome issues on mobile devices
+- social media shareing icons for posts and pages
+- separate contact page - add your details in `_config.yml`
 
 # Project Structure
+
 ```
 .
  ├── assets
@@ -44,15 +45,15 @@ This is my personal fork which adds many important features and makes the theme 
         ├── layout
         └── libs
 ```
+
 # How to Use
 
-For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
+For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details,
+or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
 and [creating pages](https://jekyllrb.com/docs/pages/).
 
-- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!  
+- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!
 - **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file.
-
 
 # Credits
 
